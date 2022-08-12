@@ -1,0 +1,1116 @@
+# depslib dependency file v1.0
+1635261178 source:c:\users\0412j\desktop\scout_dungeons_2\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261178 source:c:\users\0412j\desktop\scout_dungeons_2\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1635260147 c:\users\0412j\desktop\scout_dungeons_2\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1635258883 source:c:\users\0412j\desktop\scout_dungeons_2\t_funciones\principal\principal.c
+	"principal.h"
+
+1635261178 c:\users\0412j\desktop\scout_dungeons_2\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1635258766 source:c:\users\0412j\desktop\scout_dungeons_2\t_funciones\combate\combate.c
+	"combate.h"
+
+1635258766 c:\users\0412j\desktop\scout_dungeons_2\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+
+1635258766 source:c:\users\0412j\desktop\scout_dungeons_2\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1635258766 c:\users\0412j\desktop\scout_dungeons_2\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1635260147 c:\users\0412j\desktop\scout_dungeons_2\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1635260147 source:c:\users\0412j\desktop\scout_dungeons_2\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637012447 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261178 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1636855110 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637012261 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637005626 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1635945914 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1635942226 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637011962 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637005626 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\combate\combate.c
+	"combate.h"
+
+1637012458 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1636922884 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2\t_funciones\principal\principal.c
+	"principal.h"
+
+1637012540 source:c:\users\romul\desktop\scout_dungeons_2\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\romul\desktop\scout_dungeons_2\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1636855112 c:\users\romul\desktop\scout_dungeons_2\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637012262 c:\users\romul\desktop\scout_dungeons_2\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637005628 c:\users\romul\desktop\scout_dungeons_2\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1635945916 c:\users\romul\desktop\scout_dungeons_2\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1635942228 source:c:\users\romul\desktop\scout_dungeons_2\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637011964 source:c:\users\romul\desktop\scout_dungeons_2\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637005628 source:c:\users\romul\desktop\scout_dungeons_2\t_funciones\combate\combate.c
+	"combate.h"
+
+1637012460 source:c:\users\romul\desktop\scout_dungeons_2\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637013750 source:c:\users\romul\desktop\scout_dungeons_2\t_funciones\principal\principal.c
+	"principal.h"
+
+1637005628 source:c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\combate\combate.c
+	"combate.h"
+
+1636855112 c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637014760 c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637005628 c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637012460 source:c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637014160 source:c:\users\romul\desktop\scout_dungeons_2.1\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637014483 c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637014483 source:c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637014483 source:c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\principal\principal.c
+	"principal.h"
+
+1637014527 source:c:\users\romul\desktop\scout_dungeons_2.1\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637005628 source:c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\combate\combate.c
+	"combate.h"
+
+1636855112 c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637014760 c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637005628 c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637012460 source:c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637014768 source:c:\users\mateo\desktop\scout_dungeons_2.1\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637014483 c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637014527 source:c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637014760 source:c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637014483 source:c:\users\mateo\desktop\scout_dungeons_2.1\t_funciones\principal\principal.c
+	"principal.h"
+
+1637083735 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637083848 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637078351 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637084441 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637082200 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637082210 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637083528 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637084494 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\combate\combate.c
+	"combate.h"
+
+1637084494 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637014483 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.1\t_funciones\principal\principal.c
+	"principal.h"
+
+1637086952 source:c:\users\romul\desktop\scout_dungeons_2.3\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637083850 c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637078352 c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637084442 c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637086881 c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637088662 source:c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637087514 source:c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637085592 source:c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\combate\combate.c
+	"combate.h"
+
+1637084496 source:c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637014484 source:c:\users\romul\desktop\scout_dungeons_2.3\t_funciones\principal\principal.c
+	"principal.h"
+
+1637086952 source:c:\users\romul\desktop\scout_dungeons_2.4\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637083850 c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637090694 c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637084442 c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637086881 c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637090747 source:c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637090734 source:c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\combate\combate.c
+	"combate.h"
+
+1637090830 source:c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637014484 source:c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\principal\principal.c
+	"principal.h"
+
+1637090716 source:c:\users\romul\desktop\scout_dungeons_2.4\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637093643 source:c:\users\mateo\desktop\scout_dungeons_2.4.5\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637093362 c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637092429 c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637093362 c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637086881 c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637092496 source:c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637091975 source:c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637093612 source:c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\combate\combate.c
+	"combate.h"
+
+1637093362 source:c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637091729 source:c:\users\mateo\desktop\scout_dungeons_2.4.5\t_funciones\principal\principal.c
+	"principal.h"
+
+1637439174 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1635261180 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637438640 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637428762 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637431700 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637086881 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637428398 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637352632 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637091729 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\principal\principal.c
+	"principal.h"
+
+1637439659 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\combate\combate.c
+	"combate.h"
+
+1637439785 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_2.4.5\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637462331 source:c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637457750 c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637463815 c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637462286 c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637458839 c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637457750 c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637457750 source:c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637461287 source:c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637463984 source:c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\combate\combate.c
+	"combate.h"
+
+1637463342 source:c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637457750 source:c:\users\ferra\desktop\scout_dungeons_2.7\scout_dungeons_2.7\t_funciones\principal\principal.c
+	"principal.h"
+
+1637462332 source:c:\users\romul\desktop\scout_dungeons_2.7\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637457752 c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637463816 c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637510152 c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637458840 c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637510548 c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637463986 source:c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\combate\combate.c
+	"combate.h"
+
+1637463344 source:c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637457752 source:c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\principal\principal.c
+	"principal.h"
+
+1637467052 source:c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637510561 source:c:\users\romul\desktop\scout_dungeons_2.7\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637511738 source:c:\users\ferra\desktop\scout_dungeons_2.9\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637457752 c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637463816 c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637510152 c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637458840 c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637510548 c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637510561 source:c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637467052 source:c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637463344 source:c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637457752 source:c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\principal\principal.c
+	"principal.h"
+
+1637511074 source:c:\users\ferra\desktop\scout_dungeons_2.9\t_funciones\combate\combate.c
+	"combate.h"
+
+1637551181 source:c:\users\mateo\desktop\scout_dungeons_2.9.5\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637457752 c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637550985 c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637549489 c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637551484 c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637510550 c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637549489 source:c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637467052 source:c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637551631 source:c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\combate\combate.c
+	"combate.h"
+
+1637551768 source:c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637457752 source:c:\users\mateo\desktop\scout_dungeons_2.9.5\t_funciones\principal\principal.c
+	"principal.h"
+
+1637553435 source:c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637552202 c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637552202 c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637553059 c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637552202 c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637552553 c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+
+1637552202 source:c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\principal\principal.c
+	"principal.h"
+
+1637553055 source:c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637553059 source:c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637552444 source:c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\combate\combate.c
+	"combate.h"
+
+1637552329 source:c:\users\ferra\desktop\scout_dungeons__3.0\scout_dungeons_ 3.0\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637601243 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637601243 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637600807 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637601076 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637595267 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\combate\combate.c
+	"combate.h"
+
+1637594114 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637602605 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637602957 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637552204 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\principal\principal.c
+	"principal.h"
+
+1637552204 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637590746 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons__3.1\scout_dungeons_ 3.0\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637590746 source:c:\users\mateo\desktop\scout_dungeons_ 3.2\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637552204 c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637594114 c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637600807 c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637602605 c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637601243 c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637601243 source:c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637601076 source:c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637595267 source:c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\combate\combate.c
+	"combate.h"
+
+1637552204 source:c:\users\mateo\desktop\scout_dungeons_ 3.2\t_funciones\principal\principal.c
+	"principal.h"
+
+1637604536 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637552204 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637594114 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637600807 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637604710 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637601243 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637601243 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637601076 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637595267 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\combate\combate.c
+	"combate.h"
+
+1637552204 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\principal\principal.c
+	"principal.h"
+
+1637604681 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.2\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637601078 source:c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637600808 c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637609073 source:c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\combate\combate.c
+	"combate.h"
+
+1637594116 c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637604712 c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637608336 source:c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637609119 source:c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\principal\principal.c
+	"principal.h"
+
+1637604774 c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637605014 c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637606776 source:c:\users\romul\desktop\scout_dungeons_ 3.2\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637608283 source:c:\users\romul\desktop\scout_dungeons_ 3.2\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637606776 source:c:\users\romul\desktop\scout_dungeons_ 3.4\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637594116 c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637600808 c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637611679 c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637605014 c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637608283 source:c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637601078 source:c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637609073 source:c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\combate\combate.c
+	"combate.h"
+
+1637611923 source:c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\principal\principal.c
+	"principal.h"
+
+1637612025 source:c:\users\romul\desktop\scout_dungeons_ 3.4\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637625558 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625392 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637625910 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626893 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625538 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637626280 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637626893 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637625375 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\combate\combate.c
+	"combate.h"
+
+1637626893 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637611923 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 3.5\t_funciones\principal\principal.c
+	"principal.h"
+
+1637625560 source:c:\users\romul\desktop\scout_dungeons_ 3.6\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625394 c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637625912 c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626894 c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625540 c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637626894 source:c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637629026 source:c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\combate\combate.c
+	"combate.h"
+
+1637626894 source:c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637627850 source:c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637627994 source:c:\users\romul\desktop\scout_dungeons_ 3.6\t_funciones\principal\principal.c
+	"principal.h"
+
+1637625560 source:c:\users\romul\desktop\scout_dungeons_ 3.7\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625394 c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637625912 c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626894 c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625540 c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637632357 source:c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637626894 source:c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637629026 source:c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\combate\combate.c
+	"combate.h"
+
+1637626894 source:c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637632801 source:c:\users\romul\desktop\scout_dungeons_ 3.7\t_funciones\principal\principal.c
+	"principal.h"
+
+1637625560 source:c:\users\mateo\desktop\scout_dungeons_ 3.8\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625394 c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637633870 c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626894 c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625540 c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637634078 source:c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637634078 source:c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637629026 source:c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\combate\combate.c
+	"combate.h"
+
+1637632898 source:c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637633668 source:c:\users\mateo\desktop\scout_dungeons_ 3.8\t_funciones\principal\principal.c
+	"principal.h"
+
+1637625560 source:c:\users\romul\desktop\scout_dungeons_ 3.8\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625394 c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637637416 c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626894 c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625540 c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637634080 source:c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637664833 source:c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637664195 source:c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\combate\combate.c
+	"combate.h"
+
+1637638644 source:c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637666698 source:c:\users\romul\desktop\scout_dungeons_ 3.8\t_funciones\principal\principal.c
+	"principal.h"
+
+1637625560 source:c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625394 c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637671492 c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626894 c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625540 c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637634080 source:c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637671492 source:c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637670702 source:c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\combate\combate.c
+	"combate.h"
+
+1637638644 source:c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637666698 source:c:\users\romul\desktop\scout_dungeons_ 2.0 entrega final\t_funciones\principal\principal.c
+	"principal.h"
+
+1637625560 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\main.c
+	"T_FUNCIONES/PRINCIPAL/principal.h"
+
+1637604774 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\principal\principal.h
+	"../COMBATE/combate.h"
+	"../GRAFICOS/graficos.h"
+	"../ADMINISTRADOR/administrador.h"
+
+1637625394 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\combate\combate.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1656462609 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\basicas\funciones_basicas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"string.h"
+	<time.h>
+	<stdbool.h>
+
+1637626894 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\graficos\graficos.h
+	"../BASICAS/funciones_basicas.h"
+
+1637625540 c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\administrador\administrador.h
+	"../BASICAS/funciones_basicas.h"
+	"../GRAFICOS/graficos.h"
+
+1637634080 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\administrador\administrador.c
+	"administrador.h"
+
+1637671492 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\basicas\funciones_basicas.c
+	"funciones_basicas.h"
+
+1637670702 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\combate\combate.c
+	"combate.h"
+
+1637638644 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\graficos\graficos.c
+	"graficos.h"
+
+1637874237 source:c:\users\mateo\desktop\facultad\1er ano\2do cuatrimestre\programacion y laboratorio ll\tp final\scout_dungeons_ 2.1 entrega final\t_funciones\principal\principal.c
+	"principal.h"
+

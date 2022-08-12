@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="T_FUNCIONES\BASICAS\funciones_basicas.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\BASICAS\funciones_basicas.h" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2335" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\PRINCIPAL\principal.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="382" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\GRAFICOS\graficos.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1857" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\ADMINISTRADOR\administrador.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1931" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\COMBATE\combate.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1338" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\GRAFICOS\graficos.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12795" topLine="319" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\ADMINISTRADOR\administrador.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13117" topLine="1477" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="76" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\COMBATE\combate.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12193" topLine="446" />
+		</Cursor>
+	</File>
+	<File name="T_FUNCIONES\PRINCIPAL\principal.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="218" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
